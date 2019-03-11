@@ -1,0 +1,4 @@
+com\lti\ssoserver\SsoServerApplication$OAuth2Config.class
+com\lti\ssoserver\SsoServerApplication.class
+com\lti\ssoserver\SsoServerApplication$LoginConfig.class
+com\lti\ssoserver\UserController.class
